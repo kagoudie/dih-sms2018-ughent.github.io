@@ -1,4 +1,4 @@
-Amenah Fairouz Abdulkarim
+﻿Amenah Fairouz Abdulkarim
 Anthony T. Quickel
 Christian Mauder
 Konrad Hirschler
@@ -13,7 +13,7 @@ Shuaib Ally
 Stephanie Luescher
 Víctor De Castro León
 Vincent Chen
-Kenneth Goudie
+Kenneth Goudie, Ghent University
 Zacharie de Pierrepont
 Mohamed Maslouh
 Maya Termonia
